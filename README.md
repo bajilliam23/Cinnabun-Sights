@@ -1,32 +1,34 @@
-## Welcome to GitHub Pages
+## Cinnabun Sights!!
 
-You can use the [editor on GitHub](https://github.com/bajilliam23/Cinnabun-Sights/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Let's Explore the World Together!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Travel Log
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Joshua Tree National Park
+- Monterey Bay
+- New York
+- Linclon Park Zoo
+- Seoul, South Korea
+- Yosemite National Park
+- Grand Canyon National Park
+- Sequoia National Park
+- San Francisco
+- Niagra Falls
+- Yellowstone National Park
+- UCLA
+- Mammoth Cave National Park
+- Hawaii
+- Florida
+- Chicago, Illinois
+- Gurnee, Illinois and Others
+- Philadelphia and Pittsburgh, Pensylvania
+- Shanghai, China
+- Redondo, Long Beach, and Huntington Beaches
+- Great Smoky Mountains National Park
+- Busan, South Korea
+- 
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
