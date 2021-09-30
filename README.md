@@ -5,30 +5,30 @@ Let's Explore the World Together!
 ### Travel Log
 
 ```markdown
-- Joshua Tree National Park
-- Monterey Bay
-- New York
-- Linclon Park Zoo
-- Seoul, South Korea
-- Yosemite National Park
-- Grand Canyon National Park
-- Sequoia National Park
-- San Francisco
-- Niagra Falls
-- Yellowstone National Park
-- UCLA
-- Mammoth Cave National Park
-- Hawaii
-- Florida
-- Chicago, Illinois
-- Gurnee, Illinois and Others
-- Philadelphia and Pittsburgh, Pensylvania
-- Shanghai, China
-- Redondo, Long Beach, and Huntington Beaches
-- Great Smoky Mountains National Park
 - Busan, South Korea
-- Mt. Baldy
+- Chicago, Illinois
 - Chino Hills
+- Florida
+- Grand Canyon National Park
+- Great Smoky Mountains National Park
+- Gurnee, Illinois and Others
+- Hawaii
+- Joshua Tree National Park
+- Linclon Park Zoo
+- Mammoth Cave National Park
+- Monterey Bay
+- Mt. Baldy
+- New York
+- Niagra Falls
+- Philadelphia and Pittsburgh, Pensylvania
+- Redondo, Long Beach, and Huntington Beaches
+- San Francisco
+- Seoul, South Korea
+- Sequoia National Park
+- Shanghai, China
+- UCLA
+- Yellowstone National Park
+- Yosemite National Park
 ```
 
 #### Josuha Tree National Park
